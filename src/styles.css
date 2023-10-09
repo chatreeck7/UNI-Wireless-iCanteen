@@ -1,0 +1,18 @@
+/* styles.css */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust this for the desired height */
+  background-color: #ffffff; /* Adjust background color as needed */
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff;
+  width: 100%;
+}
+
+/* Add any additional styles for your LineChart and PieChart components as needed */
